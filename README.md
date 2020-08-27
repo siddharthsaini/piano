@@ -1,6 +1,8 @@
-# Piano - ITC15 Lab
+# Piano (Web) - ITC15 Lab
 
-Piano made with Flutter for Web using Dart, Javascript and Tone.js for Multimedia and Applications Lab (ITC15).
+Piano made with **Flutter for Web using Dart, Javascript and Tone.js** for Multimedia and Applications Lab (ITC15).
+
+## Live Version can be found here: www.siddharthsaini.tech/piano
 
 Screenshot:
 
