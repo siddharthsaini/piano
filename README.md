@@ -5,5 +5,5 @@ Piano made with Flutter for Web and Tone.js
 Screenshot:
 
 <p>
-  <img src="https://raw.githubusercontent.com/siddharthsaini/piano/master/piano.png" alt="Piano">
+  <img src="https://raw.githubusercontent.com/siddharthsaini/piano/master/piano.jpg" alt="Piano">
 </p>
